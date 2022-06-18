@@ -1,0 +1,6 @@
+﻿  test_1.cpp
+c:\users\ssh\desktop\c++_1\test1\test1\test_1.cpp(100): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ssh\desktop\c++_1\test1\test1\test_1.cpp(175): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ssh\desktop\c++_1\test1\test1\test_1.cpp(268): warning C4715: 'keyControl': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  test1.vcxproj -> C:\Users\ssh\Desktop\c++_1\test1\Debug\test1.exe
+  test1.vcxproj -> C:\Users\ssh\Desktop\c++_1\test1\Debug\test1.pdb (Partial PDB)
